@@ -15,3 +15,9 @@
 1. [https://github.com/HamedMP/ImageFlow]
 2. [http://stackoverflow.com/questions/34340489/tensorflow-read-images-with-labels]
 3. [http://stackoverflow.com/questions/33648322/tensorflow-image-reading-display]
+
+
+## Displaying DNN  Layer Weights
+
+1. [http://stackoverflow.com/questions/33802336/visualizing-output-of-convolutional-layer-in-tensorflow]
+2. [http://stackoverflow.com/questions/33783672/how-can-i-visualize-the-weightsvariables-in-cnn-in-tensorflow]
