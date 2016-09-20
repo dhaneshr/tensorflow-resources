@@ -21,3 +21,10 @@
 
 1. [http://stackoverflow.com/questions/33802336/visualizing-output-of-convolutional-layer-in-tensorflow]
 2. [http://stackoverflow.com/questions/33783672/how-can-i-visualize-the-weightsvariables-in-cnn-in-tensorflow]
+
+
+## Saving and re-using models
+
+1. [https://nathanbrixius.wordpress.com/2016/05/24/checkpointing-and-reusing-tensorflow-models/]
+2. [http://stackoverflow.com/questions/33759623/tensorflow-how-to-restore-a-previously-saved-model-python]
+3. [https://kevincodeidea.wordpress.com/2016/08/02/tensorflow-save-and-load-a-model-in-a-serious-way-from-different-files/]
