@@ -1,4 +1,4 @@
-# Tutorials and Resources on TensorFlow
+# Resources for TensorFlow
 
 
 
@@ -28,3 +28,8 @@
 1. [https://nathanbrixius.wordpress.com/2016/05/24/checkpointing-and-reusing-tensorflow-models/]
 2. [http://stackoverflow.com/questions/33759623/tensorflow-how-to-restore-a-previously-saved-model-python]
 3. [https://kevincodeidea.wordpress.com/2016/08/02/tensorflow-save-and-load-a-model-in-a-serious-way-from-different-files/]
+
+
+## High-level Abstraction
+
+1. [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim]
