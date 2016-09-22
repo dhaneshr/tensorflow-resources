@@ -35,3 +35,8 @@
 
 1. [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim]
 2. [https://www.tensorflow.org/versions/r0.10/api_docs/python/contrib.learn.html]
+3. 
+
+## Variable-sized inputs to TensorFlow
+
+1. http://stackoverflow.com/questions/37616503/feeding-a-convolutional-neural-network-with-variable-sized-inputs-in-tensorflow
