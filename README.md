@@ -17,6 +17,8 @@
 3. [http://stackoverflow.com/questions/33648322/tensorflow-image-reading-display]
 4. [http://stackoverflow.com/questions/36075319/how-do-you-load-label-and-feed-jpeg-data-into-tensorflow]
 
+## Saving Images in Tensorflow
+1. [http://stackoverflow.com/questions/34783030/saving-image-files-in-tensorflow]
 
 ## Displaying DNN  Layer Weights
 
