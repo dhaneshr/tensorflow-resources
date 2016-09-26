@@ -8,6 +8,7 @@
 2. [https://indico.io/blog/tensorflow-data-input-part2-extensions/]
 3. [https://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/]
 4. [https://www.tensorflow.org/versions/r0.10/how_tos/reading_data/index.html#reading-from-files]
+5. [http://tneal.org/post/tensorflow-iris/TensorFlowIris/]
  
 
 ## Reading Images into TensorFlow
