@@ -45,3 +45,7 @@
 
 1. http://stackoverflow.com/questions/37616503/feeding-a-convolutional-neural-network-with-variable-sized-inputs-in-tensorflow
 2. http://stackoverflow.com/questions/37594350/tensorflow-introducing-a-matrix-of-different-size-in-a-placeholder#answer-37602227
+
+## Fully convolutional NN in Tensorflow
+
+1. [https://github.com/MarvinTeichmann/tensorflow-fcn]
