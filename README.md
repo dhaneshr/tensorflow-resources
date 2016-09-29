@@ -50,3 +50,7 @@
 ## Fully convolutional NN in Tensorflow
 
 1. [https://github.com/MarvinTeichmann/tensorflow-fcn]
+
+## CNN examples
+
+1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
