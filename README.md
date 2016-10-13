@@ -15,7 +15,7 @@
 2. [http://stackoverflow.com/questions/34340489/tensorflow-read-images-with-labels]
 3. [http://stackoverflow.com/questions/33648322/tensorflow-image-reading-display]
 4. [http://stackoverflow.com/questions/36075319/how-do-you-load-label-and-feed-jpeg-data-into-tensorflow]
-5.[https://github.com/TensorVision/TensorVision/blob/master/examples/inputs/generic_input.py]
+5. [https://github.com/TensorVision/TensorVision/blob/master/examples/inputs/generic_input.py]
 5. [http://stackoverflow.com/questions/33849617/how-do-i-convert-a-directory-of-jpeg-images-to-tfrecords-file-in-tensorflow]
 
 ## Saving Images in Tensorflow
@@ -34,11 +34,10 @@
 3. [https://kevincodeidea.wordpress.com/2016/08/02/tensorflow-save-and-load-a-model-in-a-serious-way-from-different-files/]
 
 
-## High-level Abstraction
+## High-level APIs for Tensorflow
 
 1. [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim]
 2. [https://www.tensorflow.org/versions/r0.10/api_docs/python/contrib.learn.html]
-3. 
 
 ## Variable-sized inputs to TensorFlow
 
@@ -49,8 +48,8 @@
 
 1. [https://github.com/MarvinTeichmann/tensorflow-fcn]
 2. [http://stackoverflow.com/questions/38546903/semantic-segmentation-with-tensorflow-valueerror-in-loss-function-sparse-soft?rq=1]
-3.[https://github.com/tensorflow/tensorflow/issues/2169]
-4. Upsampling operation in tensorflow [http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow]
+3. [https://github.com/tensorflow/tensorflow/issues/2169]
+4. [http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow]
 
 ## CNN examples
 
@@ -61,8 +60,7 @@
 
 1. [https://github.com/fchollet/keras/issues/3354]
 2. [https://github.com/jocicmarko/ultrasound-nerve-segmentation]
-3.[http://datascience.stackexchange.com/questions/8999/deconvolutional-network-in-semantic-segmentation]
-4.[http://stackoverflow.com/questions/38155836/data-augmentation-image-data-generator-keras-semantic-segmentation]
-5.[https://github.com/fyu/dilation]
-6.[https://github.com/fvisin/reseg
-7.
+3. [http://datascience.stackexchange.com/questions/8999/deconvolutional-network-in-semantic-segmentation]
+4. [http://stackoverflow.com/questions/38155836/data-augmentation-image-data-generator-keras-semantic-segmentation]
+5. [https://github.com/fyu/dilation]
+6. [https://github.com/fvisin/reseg]
