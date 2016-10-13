@@ -50,6 +50,7 @@
 1. [https://github.com/MarvinTeichmann/tensorflow-fcn]
 2. [http://stackoverflow.com/questions/38546903/semantic-segmentation-with-tensorflow-valueerror-in-loss-function-sparse-soft?rq=1]
 3.[https://github.com/tensorflow/tensorflow/issues/2169]
+4. Upsampling operation in tensorflow [http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow]
 
 ## CNN examples
 
