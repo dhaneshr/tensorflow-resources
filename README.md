@@ -51,12 +51,13 @@
 3. [https://github.com/tensorflow/tensorflow/issues/2169]
 4. [http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow]
 
-## CNN examples
+## CNN examples in TF
 
 1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
 
 
-# Other Semantic Segmentation Implementations (not TensorFlow)
+# Other Sem. Segmentation Implementations
+# (NOT TensorFlow)
 
 1. [https://github.com/fchollet/keras/issues/3354]
 2. [https://github.com/jocicmarko/ultrasound-nerve-segmentation]
