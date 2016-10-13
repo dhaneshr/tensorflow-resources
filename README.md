@@ -1,7 +1,5 @@
 # Resources for TensorFlow
 
-
-
 ## Reading Data into TensorFlow
 
 1. [https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/]
