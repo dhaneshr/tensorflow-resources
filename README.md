@@ -57,7 +57,7 @@
 
 
 # Other Sem. Segmentation Implementations
-# (NOT TensorFlow)
+## (NOT TensorFlow)
 
 1. [https://github.com/fchollet/keras/issues/3354]
 2. [https://github.com/jocicmarko/ultrasound-nerve-segmentation]
