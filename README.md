@@ -57,9 +57,8 @@
 1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
 
 
-# Other Sem. Seg. Implementations
-## (NOT TensorFlow)
-
+# Other Implementations
+## Semantic Segmentation
 1. [https://github.com/fchollet/keras/issues/3354]
 2. [https://github.com/jocicmarko/ultrasound-nerve-segmentation]
 3. [http://datascience.stackexchange.com/questions/8999/deconvolutional-network-in-semantic-segmentation]
@@ -67,6 +66,6 @@
 5. [https://github.com/fyu/dilation]
 6. [https://github.com/fvisin/reseg]
 
-## CRF in Python
+## CRFs in Python
 
 1. [https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py]
