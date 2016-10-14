@@ -57,7 +57,7 @@
 1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
 
 
-# Other Sem. Segmentation Implementations
+# Other Sem. Seg. Implementations
 ## (NOT TensorFlow)
 
 1. [https://github.com/fchollet/keras/issues/3354]
@@ -66,3 +66,7 @@
 4. [http://stackoverflow.com/questions/38155836/data-augmentation-image-data-generator-keras-semantic-segmentation]
 5. [https://github.com/fyu/dilation]
 6. [https://github.com/fvisin/reseg]
+
+## CRF in Python
+
+1. [https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py]
