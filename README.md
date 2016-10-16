@@ -55,6 +55,7 @@
 ## CNN examples in TF
 
 1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
+2. [https://www.cs.toronto.edu/~frossard/post/vgg16/]
 
 
 # Other Implementations
