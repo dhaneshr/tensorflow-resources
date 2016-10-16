@@ -52,11 +52,12 @@
 3. [https://github.com/tensorflow/tensorflow/issues/2169]
 4. [http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow]
 
-## CNN examples in TF
+## Models in TF and TF-Slim
 
 1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
 2. [https://www.cs.toronto.edu/~frossard/post/vgg16/]
 3. [https://github.com/machrisaa/tensorflow-vgg]
+4.[https://github.com/tensorflow/models/tree/master/slim]
 
 
 # Other Implementations
