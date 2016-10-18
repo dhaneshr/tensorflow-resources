@@ -55,11 +55,17 @@
 
 ## Models in TF and TF-Slim
 
-1. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
+### VGG
+1. https://github.com/huyng/tensorflow-vgg
 2. [https://www.cs.toronto.edu/~frossard/post/vgg16/]
 3. [https://github.com/machrisaa/tensorflow-vgg]
-4. [https://github.com/tensorflow/models/tree/master/slim]
+### ResNet
 5. [https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet]
+
+### Other Models
+6. [https://github.com/tensorflow/models/tree/master/slim]
+7. [http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/]
+
 
 
 # Other Implementations
