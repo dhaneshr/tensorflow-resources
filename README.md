@@ -59,6 +59,7 @@
 1. https://github.com/huyng/tensorflow-vgg
 2. https://www.cs.toronto.edu/~frossard/post/vgg16/
 3. https://github.com/machrisaa/tensorflow-vgg
+
 ### ResNet
 5. https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet
 
