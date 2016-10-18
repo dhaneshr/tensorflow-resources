@@ -59,6 +59,7 @@
 2. [https://www.cs.toronto.edu/~frossard/post/vgg16/]
 3. [https://github.com/machrisaa/tensorflow-vgg]
 4. [https://github.com/tensorflow/models/tree/master/slim]
+5. [https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet]
 
 
 # Other Implementations
