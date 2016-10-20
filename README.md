@@ -77,6 +77,7 @@
 4. http://stackoverflow.com/questions/38155836/data-augmentation-image-data-generator-keras-semantic-segmentation
 5. https://github.com/fyu/dilation
 6. https://github.com/fvisin/reseg
+7. https://github.com/dhaneshr/ultrasound-nerve-segmentation
 
 ## CRFs in Python
 
