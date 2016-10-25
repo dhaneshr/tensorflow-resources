@@ -16,7 +16,9 @@
 3. http://stackoverflow.com/questions/33648322/tensorflow-image-reading-display
 4. http://stackoverflow.com/questions/36075319/how-do-you-load-label-and-feed-jpeg-data-into-tensorflow
 5. https://github.com/TensorVision/TensorVision/blob/master/examples/inputs/generic_input.py
-5. http://stackoverflow.com/questions/33849617/how-do-i-convert-a-directory-of-jpeg-images-to-tfrecords-file-in-tensorflow
+6. http://stackoverflow.com/questions/33849617/how-do-i-convert-a-directory-of-jpeg-images-to-tfrecords-file-in-tensorflow
+7. https://gist.github.com/HamedMP/25fe0ee167c5f4d06e45
+
 
 ## Saving Images in Tensorflow
 1. http://stackoverflow.com/questions/34783030/saving-image-files-in-tensorflow
