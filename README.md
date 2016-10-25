@@ -7,6 +7,7 @@
 3. https://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/
 4. https://www.tensorflow.org/versions/r0.10/how_tos/reading_data/index.html#reading-from-files
 5. http://tneal.org/post/tensorflow-iris/TensorFlowIris/
+6. https://gist.github.com/HamedMP
  
 
 ## Reading Images into TensorFlow
