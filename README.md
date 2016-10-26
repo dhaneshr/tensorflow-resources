@@ -69,6 +69,7 @@
 ### Other Models
 6. https://github.com/tensorflow/models/tree/master/slim
 7. http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+8. https://github.com/ebenolson/pydata2015/blob/master/3%20-%20Convolutional%20Networks/Finetuning%20for%20Image%20Classification.ipynb
 
 
 
