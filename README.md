@@ -86,4 +86,4 @@
 
 ## CRFs in Python
 
-1. [https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
+1. https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
