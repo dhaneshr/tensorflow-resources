@@ -37,6 +37,8 @@
 2. http://stackoverflow.com/questions/33759623/tensorflow-how-to-restore-a-previously-saved-model-python
 3. https://kevincodeidea.wordpress.com/2016/08/02/tensorflow-save-and-load-a-model-in-a-serious-way-from-different-files/
 4. https://github.com/joelthchao/tensorflow-finetune-flickr-style
+5. http://stackoverflow.com/questions/37326002/tensorflow-get-variable-change-shared-variable-trainable-to-false
+6. http://stackoverflow.com/questions/38978972/how-to-reuse-an-existing-neural-network-to-train-a-new-one-using-tensorflow?rq=1
 
 
 ## High-level APIs for Tensorflow
