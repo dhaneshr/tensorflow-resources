@@ -19,6 +19,7 @@
 5. https://github.com/TensorVision/TensorVision/blob/master/examples/inputs/generic_input.py
 6. http://stackoverflow.com/questions/33849617/how-do-i-convert-a-directory-of-jpeg-images-to-tfrecords-file-in-tensorflow
 7. https://gist.github.com/HamedMP/25fe0ee167c5f4d06e45
+8. http://stackoverflow.com/questions/39774449/fully-convolutional-resnets-using-tf-slim-run-very-slow
 
 
 ## Saving Images in Tensorflow
