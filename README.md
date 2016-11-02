@@ -89,6 +89,7 @@
 5. https://github.com/fyu/dilation
 6. https://github.com/fvisin/reseg
 7. https://github.com/dhaneshr/ultrasound-nerve-segmentation
+8. https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
 
 ## CRFs in Python
 
