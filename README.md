@@ -10,6 +10,7 @@
 6. https://gist.github.com/HamedMP
 7. http://stackoverflow.com/questions/37898617/having-problems-feeding-data-to-tensorflow-graph
 8. https://github.com/tensorflow/tensorflow/issues/2514
+9. https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/api_docs/python/functions_and_classes/shard3/tf.contrib.training.bucket.md
  
 
 ## Reading Images into TensorFlow
