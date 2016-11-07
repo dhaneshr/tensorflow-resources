@@ -95,6 +95,17 @@
 7. https://github.com/dhaneshr/ultrasound-nerve-segmentation
 8. https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
 
+
+## Deep Convolutional Generative Adversarial Networks
+
+1. https://github.com/carpedm20/DCGAN-tensorflow
+
+## Domain Adversarial Neural Network 
+
+1. https://github.com/pumpikano/tf-dann
+
+
+
 ## CRFs in Python
 
 1. https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
