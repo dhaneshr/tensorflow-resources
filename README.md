@@ -11,6 +11,7 @@
 7. http://stackoverflow.com/questions/37898617/having-problems-feeding-data-to-tensorflow-graph
 8. https://github.com/tensorflow/tensorflow/issues/2514
 9. https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/api_docs/python/functions_and_classes/shard3/tf.contrib.training.bucket.md
+10. http://stackoverflow.com/questions/39617686/tensorflow-data-input-toggle-train-validation/39620485#39620485
  
 
 ## Reading Images into TensorFlow
@@ -22,8 +23,6 @@
 5. https://github.com/TensorVision/TensorVision/blob/master/examples/inputs/generic_input.py
 6. http://stackoverflow.com/questions/33849617/how-do-i-convert-a-directory-of-jpeg-images-to-tfrecords-file-in-tensorflow
 7. https://gist.github.com/HamedMP/25fe0ee167c5f4d06e45
-
-
 
 
 ## Saving Images in Tensorflow
