@@ -97,6 +97,7 @@
 6. https://github.com/fvisin/reseg
 7. https://github.com/dhaneshr/ultrasound-nerve-segmentation
 8. https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
+9. https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
 
 
 ## Deep Convolutional Generative Adversarial Networks
