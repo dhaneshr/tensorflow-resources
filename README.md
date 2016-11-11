@@ -33,7 +33,11 @@
 1. http://stackoverflow.com/questions/33802336/visualizing-output-of-convolutional-layer-in-tensorflow
 2. http://stackoverflow.com/questions/33783672/how-can-i-visualize-the-weightsvariables-in-cnn-in-tensorflow
 
+## Deconvolution layers
 
+1. http://stackoverflow.com/questions/37444951/how-to-stack-multiple-layers-of-conv2d-transpose-of-tensorflow
+2. http://stackoverflow.com/questions/35488717/confused-about-conv2d-transpose
+3. http://stackoverflow.com/questions/37771321/how-to-use-tensorflow-to-implement-deconvolution
 
 ## Saving,re-using and fine-tuning models
 
