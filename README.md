@@ -47,6 +47,7 @@
 4. https://github.com/joelthchao/tensorflow-finetune-flickr-style
 5. http://stackoverflow.com/questions/37326002/tensorflow-get-variable-change-shared-variable-trainable-to-false
 6. http://stackoverflow.com/questions/38978972/how-to-reuse-an-existing-neural-network-to-train-a-new-one-using-tensorflow?rq=1
+7. https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.80gda5w2w
 
 
 ## High-level APIs for Tensorflow
