@@ -108,6 +108,7 @@
 ## Domain Adversarial Neural Network 
 
 1. https://github.com/pumpikano/tf-dann
+2. http://bamos.github.io/2016/08/09/deep-completion/
 
 ## SuperResolution
 
