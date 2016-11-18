@@ -109,7 +109,9 @@
 
 1. https://github.com/pumpikano/tf-dann
 
+## SuperResolution
 
+1. https://github.com/Tetrachrome/subpixel
 
 ## CRFs in Python
 
