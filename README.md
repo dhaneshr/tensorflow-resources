@@ -60,6 +60,7 @@
 3. https://github.com/tensorflow/tensorflow/issues/2169
 4. http://stackoverflow.com/questions/36728239/bilinear-upsample-in-tensorflow
 5. https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation
+6. https://github.com/ecobost/cnn4brca
 
 ## Models in TF and TF-Slim
 
