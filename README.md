@@ -44,6 +44,8 @@
 6. http://stackoverflow.com/questions/38978972/how-to-reuse-an-existing-neural-network-to-train-a-new-one-using-tensorflow?rq=1
 7. https://blog.metaflow.fr/tensorflow-saving-restoring-and-mixing-multiple-models-c4c94d5d7125#.80gda5w2w
 
+## Computing Loss
+1.http://stackoverflow.com/questions/34240703/difference-between-tensorflow-tf-nn-softmax-and-tf-nn-softmax-cross-entropy-with
 
 ## High-level APIs for Tensorflow
 1. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
