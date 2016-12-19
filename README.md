@@ -109,3 +109,4 @@
 
 ## CRFs in Python
 1. https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
+2. http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/
