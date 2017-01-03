@@ -32,6 +32,7 @@
 
 ## Batch Normalization in Tensorflow
 1. https://github.com/tensorflow/tensorflow/issues/1122
+2. http://r2rt.com/implementing-batch-normalization-in-tensorflow.html
 
 ## Deconvolution layers
 1. http://stackoverflow.com/questions/37444951/how-to-stack-multiple-layers-of-conv2d-transpose-of-tensorflow
