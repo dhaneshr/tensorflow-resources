@@ -115,4 +115,7 @@
 1. https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
 2. http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/
 3. https://github.com/lucasb-eyer/pydensecrf
-4.
+
+
+## Multitask learning in Tensorflow
+1. http://www.kdnuggets.com/2016/07/multi-task-learning-tensorflow-part-1.html
