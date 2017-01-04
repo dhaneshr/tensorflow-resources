@@ -119,3 +119,4 @@
 
 ## Multitask learning in Tensorflow
 1. http://www.kdnuggets.com/2016/07/multi-task-learning-tensorflow-part-1.html
+2. https://jg8610.github.io/Multi-Task/
