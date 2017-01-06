@@ -104,6 +104,7 @@
 ## Deep Convolutional Generative Adversarial Networks
 1. https://github.com/carpedm20/DCGAN-tensorflow
 2. https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
+3. http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/
 
 
 ## Domain Adversarial Neural Network 
