@@ -105,12 +105,14 @@
 1. https://github.com/carpedm20/DCGAN-tensorflow
 2. https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
 
+
 ## Domain Adversarial Neural Network 
 1. https://github.com/pumpikano/tf-dann
 2. http://bamos.github.io/2016/08/09/deep-completion/
 
 ## SuperResolution
 1. https://github.com/Tetrachrome/subpixel
+2. https://github.com/buriburisuri/SRGAN
 
 ## CRFs in Python
 1. https://pystruct.github.io/auto_examples/image_segmentation.html#sphx-glr-auto-examples-image-segmentation-py
