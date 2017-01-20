@@ -111,6 +111,9 @@
 1. https://github.com/pumpikano/tf-dann
 2. http://bamos.github.io/2016/08/09/deep-completion/
 
+## Context-Encoders
+1.https://github.com/pathak22/context-encoder
+
 ## SuperResolution
 1. https://github.com/Tetrachrome/subpixel
 2. https://github.com/buriburisuri/SRGAN
