@@ -112,7 +112,8 @@
 2. http://bamos.github.io/2016/08/09/deep-completion/
 
 ## Context-Encoders
-1.https://github.com/pathak22/context-encoder
+1. https://github.com/pathak22/context-encoder (Torch)
+2. https://github.com/jazzsaxmafia/Inpainting
 
 ## SuperResolution
 1. https://github.com/Tetrachrome/subpixel
