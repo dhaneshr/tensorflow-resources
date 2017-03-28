@@ -134,3 +134,6 @@
 1. https://github.com/gustavla/autocolorize/tree/master/tensorflow
 2. http://tinyclouds.org/colorize/
 
+## Quantization of Tensorflow models
+1. https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
+
