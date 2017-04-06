@@ -133,6 +133,8 @@
 
 1. https://github.com/gustavla/autocolorize/tree/master/tensorflow
 2. http://tinyclouds.org/colorize/
+3. http://blog.christianperone.com/2016/01/convolutional-hypercolumns-in-python/
+4. http://stackoverflow.com/questions/37904614/implementing-hypercolumn-in-neural-nets-with-tensorflow
 
 ## Quantization of Tensorflow models
 1. https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
