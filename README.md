@@ -51,7 +51,7 @@
 ## Computing Loss
 1.http://stackoverflow.com/questions/34240703/difference-between-tensorflow-tf-nn-softmax-and-tf-nn-softmax-cross-entropy-with
 2.http://stackoverflow.com/questions/38546903/semantic-segmentation-with-tensorflow-valueerror-in-loss-function-sparse-soft
-
+3.https://datascience.stackexchange.com/questions/12886/tensorflow-adjusting-cost-function-for-imbalanced-data
 ## High-level APIs for Tensorflow
 1. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
 2. https://www.tensorflow.org/versions/r0.10/api_docs/python/contrib.learn.html
