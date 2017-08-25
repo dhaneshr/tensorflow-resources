@@ -36,6 +36,7 @@
 
 ## Restoring weights and checkpoints
 1. http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+2. http://web.stanford.edu/class/cs20si/lectures/notes_05.pdf
 
 ## Deconvolution layers
 1. http://stackoverflow.com/questions/37444951/how-to-stack-multiple-layers-of-conv2d-transpose-of-tensorflow
