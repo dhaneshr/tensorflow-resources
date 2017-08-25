@@ -34,6 +34,9 @@
 1. https://github.com/tensorflow/tensorflow/issues/1122
 2. http://r2rt.com/implementing-batch-normalization-in-tensorflow.html
 
+## Restoring weights and checkpoints
+1. http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+
 ## Deconvolution layers
 1. http://stackoverflow.com/questions/37444951/how-to-stack-multiple-layers-of-conv2d-transpose-of-tensorflow
 2. http://stackoverflow.com/questions/35488717/confused-about-conv2d-transpose
