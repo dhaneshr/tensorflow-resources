@@ -6,7 +6,7 @@
 There is a new input pipeline for tensorflow tf.contrib.Dataset.
 Read these:
 1. https://www.tensorflow.org/versions/r1.3/programmers_guide/datasets
-2 https://kratzert.github.io/2017/06/15/example-of-tensorflows-new-input-pipeline.html
+2. https://kratzert.github.io/2017/06/15/example-of-tensorflows-new-input-pipeline.html
 
 Links using older/legacy pipelines:
 
