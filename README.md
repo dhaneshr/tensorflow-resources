@@ -1,6 +1,14 @@
 # Resources for TensorFlow
 
 ## Reading Data into TensorFlow
+
+### UPDATE:
+There is a new input pipeline for tensorflow tf.contrib.Dataset.
+See this blog post:
+1. https://kratzert.github.io/2017/06/15/example-of-tensorflows-new-input-pipeline.html
+
+Links using older/legacy pipelines:
+
 1. https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/
 2. https://indico.io/blog/tensorflow-data-input-part2-extensions/
 3. https://ischlag.github.io/2016/06/19/tensorflow-input-pipeline-example/
